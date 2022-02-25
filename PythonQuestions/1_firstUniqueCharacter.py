@@ -29,7 +29,7 @@ def firstUniqChar1(s):
 
 #Solution 2
 import collections
-def firstUniqChar2(s: str) -> int:
+def firstUniqChar2(s):
         """
         :type s: str
         :rtype: int
